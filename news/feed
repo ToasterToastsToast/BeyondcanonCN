@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.beyondcanon.com//news</id>
+    <title>NEWS — Homestuck: Beyond Canon</title>
+    <updated>2025-10-15T13:59:03.873Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.beyondcanon.com//news/feed"/>
+    <link rel="self" href="https://www.beyondcanon.com//news/feed?type=atom"/>
+    <subtitle>News feed for https://www.beyondcanon.com/.</subtitle>
+    <rights>©2025 Homestuck Independent Creative Union</rights>
+    <entry>
+        <title type="html"><![CDATA[HS:BC 2 Year Anniversary & Monthly Check-in — October 2025]]></title>
+        <id>https://www.beyondcanon.com//news/hs-bc-2-year-anniversary-and-monthly-check-in-october-2025</id>
+        <link href="https://www.beyondcanon.com//news/hs-bc-2-year-anniversary-and-monthly-check-in-october-2025"/>
+        <updated>2025-10-08T19:55:58.276Z</updated>
+        <author>
+            <name>Miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — August 2025]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-august-2025</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-august-2025"/>
+        <updated>2025-08-15T21:05:23.862Z</updated>
+        <author>
+            <name>Kim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ACT 2, New Frontiers, and More]]></title>
+        <id>https://www.beyondcanon.com//news/act-2-new-frontiers-and-more</id>
+        <link href="https://www.beyondcanon.com//news/act-2-new-frontiers-and-more"/>
+        <updated>2025-08-02T00:09:41.391Z</updated>
+        <author>
+            <name>Miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — July 2025]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-july-2025</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-july-2025"/>
+        <updated>2025-07-16T22:28:10.217Z</updated>
+        <author>
+            <name>Miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Prep for Act 2]]></title>
+        <id>https://www.beyondcanon.com//news/in-prep-for-act-2</id>
+        <link href="https://www.beyondcanon.com//news/in-prep-for-act-2"/>
+        <updated>2025-07-01T19:47:35.353Z</updated>
+        <author>
+            <name>HICU Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of Plushies and Pauses]]></title>
+        <id>https://www.beyondcanon.com//news/of-plushies-and-pauses</id>
+        <link href="https://www.beyondcanon.com//news/of-plushies-and-pauses"/>
+        <updated>2025-04-24T00:42:08.467Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — April 2025]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-april-2025</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-april-2025"/>
+        <updated>2025-04-13T16:23:43.917Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — March 2025]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-march-2025</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-march-2025"/>
+        <updated>2025-03-23T01:18:07.528Z</updated>
+        <author>
+            <name>Chumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[S] 8r8k.]]></title>
+        <id>https://www.beyondcanon.com//news/s-8r8k</id>
+        <link href="https://www.beyondcanon.com//news/s-8r8k"/>
+        <updated>2025-02-16T21:11:42.479Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — February 2025]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-february-2025</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-february-2025"/>
+        <updated>2025-02-01T23:17:02.199Z</updated>
+        <author>
+            <name>Miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — January 2025]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-january-2025</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-january-2025"/>
+        <updated>2025-01-09T01:20:30.728Z</updated>
+        <author>
+            <name>Chumi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — November 2024]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-november-2024</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-november-2024"/>
+        <updated>2024-11-12T01:57:04.227Z</updated>
+        <author>
+            <name>Miles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HS:BC 1 Year Anniversary & Monthly Check-In — October 2024]]></title>
+        <id>https://www.beyondcanon.com//news/hs-bc-1-year-anniversary-and-monthly-check-in-october-2024</id>
+        <link href="https://www.beyondcanon.com//news/hs-bc-1-year-anniversary-and-monthly-check-in-october-2024"/>
+        <updated>2024-10-09T02:13:56.048Z</updated>
+        <author>
+            <name>HS:BC Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — September 2024]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-september-2024</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-september-2024"/>
+        <updated>2024-09-14T19:26:10.785Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — August 2024]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-august-2024</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-august-2024"/>
+        <updated>2024-08-11T18:19:27.976Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — July 2024]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-july-2024</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-july-2024"/>
+        <updated>2024-07-23T02:12:53.963Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEING A MARKETABLE PLUSHIE IS FINE, ACTUALLY.]]></title>
+        <id>https://www.beyondcanon.com//news/being-a-marketable-plushie-is-fine-actually</id>
+        <link href="https://www.beyondcanon.com//news/being-a-marketable-plushie-is-fine-actually"/>
+        <updated>2024-06-12T22:52:43.779Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monthly Check-In — June 2024]]></title>
+        <id>https://www.beyondcanon.com//news/monthly-check-in-june-2024</id>
+        <link href="https://www.beyondcanon.com//news/monthly-check-in-june-2024"/>
+        <updated>2024-06-01T20:03:22.822Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1715221132</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1715221132"/>
+        <updated>2024-05-08T22:21:38.706Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1714652766</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1714652766"/>
+        <updated>2024-05-02T12:26:12.897Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1713045126</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1713045126"/>
+        <updated>2024-04-13T21:52:15.840Z</updated>
+        <author>
+            <name>HS:BC Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1711998979</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1711998979"/>
+        <updated>2024-04-01T19:16:27.005Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1710540899</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1710540899"/>
+        <updated>2024-03-15T22:15:06.533Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1709622430</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1709622430"/>
+        <updated>2024-03-05T07:07:16.263Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.beyondcanon.com//news/newspost-1707606580</id>
+        <link href="https://www.beyondcanon.com//news/newspost-1707606580"/>
+        <updated>2024-02-10T18:09:40.248Z</updated>
+        <author>
+            <name>James</name>
+        </author>
+    </entry>
+</feed>
